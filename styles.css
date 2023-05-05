@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(187, 187, 248);
+  }
+  .cat {
+      background-color:rgb(251, 218, 164);
+      margin: 1em;
+      padding: 1em;
+      border-radius: 1em;
+      border: 1px solid;
+  }
+  
+  
+  
+  @media (min-width : 960px){
+      .cats{
+          display: flex;
+      
+  
+  }
+  }
+  
+  fieldset {
+  margin: 1em;
+  
+  }
